@@ -1,0 +1,3 @@
+einstein.jpg
+0 0 500 500
+m
